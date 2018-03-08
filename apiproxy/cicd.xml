@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="cicd">
+    <Basepaths>/cicd</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1520548096588</CreatedAt>
+    <CreatedBy>ivan.z.cai@gmail.com</CreatedBy>
+    <Description>this is to learn about cicd</Description>
+    <DisplayName>cicd</DisplayName>
+    <LastModifiedAt>1520548096588</LastModifiedAt>
+    <LastModifiedBy>ivan.z.cai@gmail.com</LastModifiedBy>
+    <ManifestVersion>d95e8179dac5fb169a77ce6cf3790c233680f4ac27dd8710101c280f52580e6fa2463db24cd83e5e2a28a092ed6694fac588853ac212cff88545c7446a51c4ba</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>
